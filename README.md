@@ -13,4 +13,4 @@
 | | mistralai/Ministral-3-3B-Reasoning-2512 | | |
 | | | nvidia/Gemma-4-26B-A4B-NVFP4 | |
 | LiquidAI/LFM3-1.7B | | |
-| | RecursiveSI/flint | |
+| | | RecursiveSI/flint | |
